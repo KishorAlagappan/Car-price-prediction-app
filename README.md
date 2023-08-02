@@ -11,7 +11,6 @@ Welcome to the Car Price Prediction App! This project focuses on developing a st
 - [Contributions](#contributions)
 
 
-
 ## Key Points
 1. **Understanding the Data**: Gained a solid grasp of the dataset's structure, variables, and relationships, laying the foundation for insightful analysis.
    
