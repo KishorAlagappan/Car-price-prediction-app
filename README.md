@@ -1,5 +1,6 @@
 # Car Price Prediction App
 
+
 ## Project Description
 Welcome to the Car Price Prediction App! This project focuses on developing a state-of-the-art predictive model that accurately estimates car prices based on a wide range of features. By applying skills in data analysis, visualization, machine learning, and programming, this project addresses real-world challenges in the automotive market.
 
